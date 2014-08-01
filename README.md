@@ -1,4 +1,4 @@
-chrome_-extension
+chrome-extension
 =================
 
 a demo chrome_ extension
